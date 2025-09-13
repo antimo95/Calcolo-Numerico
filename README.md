@@ -101,5 +101,5 @@ The main goals are:
 ---
 
 ## 👨‍💻 Authors
-- Francesco Erminio Di Fruscio (M631004)  
-- Antimo Barbato (M631079)  
+- Francesco Erminio Di Fruscio 
+- Antimo Barbato 
