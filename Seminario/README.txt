@@ -1,0 +1,1 @@
+Durante la presentazione si farà uso di tavoletta grafica
