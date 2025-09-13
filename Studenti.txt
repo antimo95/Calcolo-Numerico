@@ -1,4 +1,5 @@
 Il progetto (FITTING DATI) e il seminario (NURBS) per l'esame di Calcolo Numerico sono stati realizzati da:
 
-Francesco Erminio di Fruscio (M63/1004)
-Antimo Barbato (M63/1079)
+Francesco Erminio di Fruscio 
+
+Antimo Barbato 
