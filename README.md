@@ -83,28 +83,6 @@ The main goals are:
 ## 📐 NURBS – Theoretical Insights
 **NURBS (Non-Uniform Rational B-Splines)** are a generalization of Bézier and B-Spline curves, widely used in **3D graphics and CAD** for curve and surface modeling.  
 
-### 🔹 General Formula
-![NURBS Formula](./nurbs_formula.png)
-
-
-### 🔹 Components
-- **Degree (p)** → controls curve flexibility  
-- **Control points (\( P_i \))** → define the curve’s shape  
-- **Weights (\( w_i \))** → pull the curve towards control points  
-- **Knot vector (U)** → defines parameterization  
-
-### 🔹 Key Properties
-- **Strong Convex Hull Property**  
-- **Local Modification Scheme**  
-- **Variation Diminishing Property**  
-- **Projective Invariance**  
-
-### 🔹 Shape Manipulation
-1. Moving control points  
-2. Changing weights  
-3. Editing knot vector  
-4. Data reinterpolation  
-
 ### 🔹 Applications
 - Complex surface modeling in **CAD/CAM**  
 - 3D graphics & animation  
